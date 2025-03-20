@@ -1,1 +1,1 @@
-# air-pollution-awareness
+# air-quality-awareness
